@@ -8,16 +8,16 @@
 	>
 
 <channel>
-	<title>Parfum Pria</title>
+	<title>(1) Parfum Sang-X</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Bisa COD (Bayar di Tempat)</description>
-	<lastBuildDate>Tue, 24 Aug 2021 19:45:01 +0000</lastBuildDate>
+	<description>BISA COD (Bayar Setelah Barang Sampai)</description>
+	<lastBuildDate>Fri, 12 Nov 2021 14:50:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 </channel>
 </rss>
